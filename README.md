@@ -1,6 +1,7 @@
 # Loss-less-intrinsic-image-decomposition-based-on-self-learning-shading-features-filter-network
 The implementation of “Loss-less intrinsic image decomposition based on self-learning shading features filter network ”
 
+![image]（https://github.com/crazysharks/Loss-less-intrinsic-image-decomposition-based-on-self-learning-shading-features-filter-network-/blob/main/figs/The%20proposed%20network%20architecture.png）
 
 We have included the intrinsic decomposition results on the IIW dataset and the SAW dataset in the following links：
 
