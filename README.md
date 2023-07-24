@@ -5,6 +5,8 @@ The implementation of “Loss-less intrinsic image decomposition based on self-l
 
 We have included the intrinsic decomposition results on the IIW dataset and the SAW dataset in the following links：
 
+https://pan.baidu.com/s/1-vIaudqmEdspYT5lkuvEZg
+
 The download links for the IIW and SAW datasets are as follows:
 
 IIW(http://opensurfaces.cs.cornell.edu/publications/intrinsic/#download)
