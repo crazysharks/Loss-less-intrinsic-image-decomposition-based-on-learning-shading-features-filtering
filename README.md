@@ -1,5 +1,5 @@
 # Loss-less intrinsic image decomposition based on learning shading features filtering
-The implementation of “Loss-less intrinsic image decomposition based on self-learning shading features filter network ”
+The implementation of “Loss-less intrinsic image decomposition based on learning shading features filtering ”
 
 ![image](https://github.com/crazysharks/Loss-less-intrinsic-image-decomposition-based-on-self-learning-shading-features-filter-network-/blob/main/figs/The%20proposed%20network%20architecture.png)
 
